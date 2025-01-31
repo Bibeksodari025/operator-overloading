@@ -21,7 +21,7 @@ class complex
     }
     void getdata()
     {
-        cout<<"enter the value of real and img:";
+        cout<<"enter the value of name ,cast and img:";
         cin>>real>>img;
     }
     void showdata()
